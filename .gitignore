@@ -1,2 +1,6 @@
 runs/1557415127/checkpoints
 runs/1557415127/summaries
+runs/1557413837/summaries/dev/events.out.tfevents.1557413837.irvannos-MacBook-Pro.local
+runs/1557413837/summaries/train/events.out.tfevents.1557413837.irvannos-MacBook-Pro.local
+__pycache__/data_helpers.cpython-37.pyc
+__pycache__/text_cnn.cpython-37.pyc
